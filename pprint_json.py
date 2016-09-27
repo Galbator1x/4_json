@@ -14,5 +14,5 @@ def pretty_print_json(data):
 
 
 if __name__ == '__main__':
-    filepath = input('Введите путь до файла: ')
+    filepath = input('Enter the path to the JSON file: ')
     pretty_print_json(load_data(filepath))
