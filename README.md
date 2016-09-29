@@ -20,7 +20,7 @@ Enter the path to the JSON file: example.json
 ]
 ```
 
-Reruirements
+Requirements
 ------------
 
 - Python >= 3.4
